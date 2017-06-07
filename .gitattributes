@@ -1,4 +1,3 @@
 $ cat .gitattributes
-src/main/resources/static/* linguist-vendored
-project-docs/* linguist-documentation
+examples/**.ino linguist-documentation=false
 *.rb linguist-language=Arduino
