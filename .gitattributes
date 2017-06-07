@@ -1,3 +1,1 @@
-$ cat .gitattributes
-examples/**.ino linguist-documentation=false
-*.rb linguist-language=Arduino
+examples/ linguist-documentation=false
