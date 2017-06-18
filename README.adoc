@@ -19,7 +19,9 @@ License: CC-BY-SA 3.0
 To use:
 
 MorseCode morse( 13, 0, 250 );
- Arguments
- Pin: pin that the buzzer (and optional LED) will be on
- Frequency: sets the frequency of the buzzer (Uno, Mega, Leonardo and other AVR boards 31–65535, Zero 41—275000)
- Unit: sets the length of a dot in milliseconds
+
+Arguments
+
+* Pin: pin that the buzzer (and optional LED) will be on
+* Frequency: sets the frequency of the buzzer (Uno, Mega, Leonardo and other AVR boards 31–65535, Zero 41—275000)
+* Unit: sets the length of a dot in milliseconds
