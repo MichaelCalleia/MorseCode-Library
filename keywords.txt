@@ -6,9 +6,9 @@
 # Datatypes (KEYWORD1)
 #######################################
 MorseCode	KEYWORD1
-pin	KEYWORD1	MorseCode
-freq	KEYWORD1	MorseCode
-unit	KEYWORD1	MorseCode
+pin	KEYWORD1
+freq	KEYWORD1
+unit	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
